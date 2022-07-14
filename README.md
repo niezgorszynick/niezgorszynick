@@ -18,3 +18,5 @@
 🐝 for Data Analysis-related business: <a href="mailto:maciej.szulakiewicz@beetalents.com">maciej.szulakiewicz@beetalents.com</a>
 <br>
 👨 for recruitment-related topics: <a href="mailto:m.szulakiewicz@pilot.co">m.szulakiewicz@pilot.co</a>
+<br>
+alternatively, you can visit <a href="https://www.linkedin.com/in/maciej-szulakiewicz/">my LinkedIn profile</a> :)

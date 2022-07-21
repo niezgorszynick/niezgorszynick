@@ -12,7 +12,7 @@
 🌱 I aspire to become a <b>Data Analyst</b> and I'm currently learning SQL and Google Data Studio
 <br>
 <br>
-📖 I'm trying to grasp the basics of Python and I can't wait to add other languages to my collection
+📖 I'm trying to grasp the basics of <b>Python<b/> and I can't wait to add other languages to my collection
 <br>
 <br>
 📫 <b>How to reach me: </b>
